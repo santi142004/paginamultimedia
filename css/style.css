@@ -1,0 +1,253 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #24282B;
+    padding-left: 150px;
+    padding-bottom: 35px;
+    border-bottom:5px solid #1293D4;
+}
+
+h1{
+    color: white;
+    padding-top: 30px;
+  
+    
+}
+.suscripcion{
+    padding-left: 150px;
+    font-size: 25px;
+    
+    
+}
+nav ul{
+    text-align: center;
+    padding-left: 700px;
+  
+}
+nav ul li{
+    display: inline;
+    margin-right: 40px;
+    margin-bottom: 50px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+#inicio{
+    color: #1293D4;
+}
+#nosotros{
+    color: #1293D4;
+}
+#servicios{
+    color: #1293D4;
+}
+#contacto{
+    color: #1293D4;
+}
+
+.cabecera{
+    width: 1900px;
+    height: 500px;
+    background: url(/images/cabecera.jpg) 0px;
+}
+.encabecado{
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 27%;
+    color: #fff;
+    font-size: 70px;
+}
+.parrafo{
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 22%;
+    color: #fff;
+    font-size: 20px;
+    
+}
+.clear {
+    clear: both;
+}
+.banner{
+    background: #24282B;
+    color:#fff;
+   padding-bottom: 45px; 
+   padding-top: 45px;
+}
+.formulario{
+    float: right;
+    margin: -38px;
+    margin-right: 200px; 
+  
+}
+input{
+    width: 300px;
+    height: 35px;
+   
+}
+button{
+    background: #E8491D;
+    color: #fff;
+    width: 140px;
+    height: 45px;
+    border: 2px solid #E8491D;
+   
+}
+button:hover {
+    background-color: transparent;
+    border: 2px solid #E8491D;
+    cursor: pointer;
+}
+.logos{
+    padding-top:10px;
+    padding-left: 70px;
+
+}
+.secizq{
+    float: left;
+    width: 30%;
+    margin: 80px 0px;
+    text-align: center;
+    font-size: 15px;
+}
+.secdere{
+    float: right;
+    width: 31%;
+    margin: -285px 210px 0px 0px;
+    text-align: center; 
+}
+.secmed{
+    float: left;
+    width: 31%;
+    margin: 77px 0px 0px -20px;
+    text-align: center;
+}
+.footer{
+    margin: 478px 0px 0px 0px;
+    background: #1293D4;
+    color: #fff;
+    text-align: center;
+    padding-top: 80px;
+  
+}
+.parrafo2{
+    margin: -40px 0px 0px 0px;
+}
+span{
+    color: #1293D4;
+}
+.nosotros{
+    margin-left: 140px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+   
+}
+.parrafo3{
+  margin-left: 140px;
+  margin-right: 800px; 
+  margin-top: 20px; 
+  text-align: justify;
+
+}
+.parrafo4{
+    margin-left: 140px;
+  margin-right: 800px; 
+  margin-top: 20px;
+  background: #35424A ;
+  color: #fff;
+  border: 20px solid #35424A;
+  text-align: justify;
+
+}
+.pc img{
+    margin-left: 140px;
+    margin-top: 20px;
+    width: 915px;
+    height: 300px;
+}
+
+.parrafo5{
+ margin-right: 200px;
+margin-top: 20px;
+float: right;
+background: #35424A ;
+color: #fff;
+border: 30px solid #35424A;
+text-align: justify;
+width: 340px;
+
+}
+.footer1{
+    margin: 30px 0px 0px 0px;
+    background: #1293D4;
+    color: #fff;
+    text-align: center;
+    padding-top: 80px;
+ 
+}
+.servicios{
+    margin-top: 25px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+
+}
+.caja1{
+    margin-left: 150px;
+    margin-right: 800px; 
+    margin-top: 5px; 
+    text-align: justify;
+  border: 2px solid #CCCCCC;
+  padding: 40px;
+  background: #E6E6E6;
+
+}
+.mapa img{
+float: right;
+width: 390px;
+height: 300px;
+margin-right: 200px;
+margin-top: 5px;
+}
+ form{
+    padding-left: 150px;
+
+ } 
+.formularios input{
+     width: 702px; 
+    height: 29px; 
+} 
+textarea{
+    width: 702px;
+    height: 155px;
+}
+.mapa1 img{ 
+    width: 400px;
+    height: 300px;
+    float: right;
+    position: relative;
+    top: 285px;
+    left: 401px;
+
+}
+.boton{
+    width: 703px;
+
+}
+.footer2{
+    margin: 150px 0px 0px 0px ;
+    background: #1293D4;
+    color: #fff;
+    text-align: center;
+    padding-top: 100px;
+
+}
